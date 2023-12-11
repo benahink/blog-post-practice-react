@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.app {
+  padding: 10px;
+}
+
+.app .jumbotron {
+  text-align: center;
+}
+
+.app .card {
+  margin-bottom: 10px;
+}
+
+.app  {
+  color: white;
+  font-weight: bold;
+}
+
+.card {
+  margin: 20px auto !important;
+  max-width: 60%;
+}
+
+.card-title, .display-4 {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: 400;
+}
